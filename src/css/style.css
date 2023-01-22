@@ -1,0 +1,66 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
+a:hover{
+    color: #6C0092;
+}
+body {
+    padding-top: 10px;
+    overflow: hidden;
+}
+.link {
+    color: #6C0092;
+}
+.link:hover{
+    color: #ffffff;
+}
+.fundo {
+    background-color: gray;
+    padding: 20px 15px 50px 15px;
+    width: 20vw;
+    height: 80vh;
+    margin: auto;
+    border-radius: 35px;
+}
+.foto {
+    width: 50%;
+    display: block;
+    border-color: #fff;
+    border-style: solid;
+    border-radius: 100%;
+    border-width: 2px;
+    justify-items: center;
+    margin: auto auto 10px;
+}
+.titulo {
+    text-align: center;
+    font-size: 20px;
+}
+.botao {
+    padding: 5px;
+    width: 95%;
+    display: block;
+    background-color: #000;
+    font-size: 18px;
+    line-height: 18px;
+    border-radius: 100px;
+    border-style: none;
+    margin: auto;
+}
+
+.divisao {
+    margin: 10px;
+}
+.rodape {
+    width: 100%;
+    display: block;
+    margin-top: 15px;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: bold;
+    text-align: center;
+}
